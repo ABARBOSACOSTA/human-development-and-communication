@@ -1,4 +1,4 @@
-# ABARBOSA COSTA - Communication & Content Portfolio
+## communication-and-rhetoric-portfolio
 
 Welcome to my official repository. Here I share a curated collection of materials, articles, and communication structures developed through over 10 years of experience on stage, in media, and in human development.
 
